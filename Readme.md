@@ -36,4 +36,4 @@ python instaBrute.py -u facebook -d dictionary.txt
 2. Check password for a given username
 3. Brute forcer mother fuckers!
 
-##Made by Nishant#8662
+## Made by Nishant#8662
